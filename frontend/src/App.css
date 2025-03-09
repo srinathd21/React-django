@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(234, 234, 234);
+    padding: 10px 20px;
+
+}
+nav>ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 15px;
+}
+nav>ul a{
+    text-decoration: none;
+    color: black;
+}

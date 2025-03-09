@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+form{
+    border: none;
+    box-shadow: 1px 1px 10px rgb(199, 199, 199);
+    border-radius: 10px;
+    display: inline-block;
+    padding: 30px;
+    width: 400px;
+    margin: 70px auto;
+}
+form>input{
+    margin: 10px;
+    width: 100%;
+    border: none;
+    border: 1px solid rgb(234, 234, 234);
+    padding: 5px;
+    border-radius: 5px;
+
+
+}
+form>button{
+    width: 100px;
+    padding:5px 0px;
+    border: none;
+    background-color: green;
+    color: white;
+    margin-top: 20px;
+}
